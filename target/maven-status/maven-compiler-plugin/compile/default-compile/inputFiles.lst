@@ -1,0 +1,15 @@
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/Springtopicos20252Application.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/controller/TrabalhoController.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/controller/UsuarioController.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/entity/Anotacao.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/entity/Autorizacao.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/entity/Trabalho.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/entity/Usuario.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/repository/AnotacaoRepository.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/repository/AutorizacaoRepository.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/repository/TrabalhoRepository.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/repository/UsuarioRepository.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/service/TrabalhoService.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/service/TrabalhoServiceImpl.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/service/UsuarioService.java
+/workspaces/avaliacao2209/src/main/java/br/gov/sp/fatec/springtopicos20252/service/UsuarioServiceImpl.java
