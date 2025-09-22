@@ -1,1 +1,0 @@
-# springtopicos20252
